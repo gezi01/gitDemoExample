@@ -1,3 +1,3 @@
 <template>
-  <h3>b.vue</h3>
+  <h3>new-b.vue</h3>
 </template>
